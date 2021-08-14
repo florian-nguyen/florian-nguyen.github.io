@@ -5,6 +5,11 @@
   text-decoration: none;
 }
 
+.projects-section .card .card-header img {
+  width: 30px;
+  height: 30px;
+}
+
 .projects-section .card .card-img-xs {
   margin-right: 0.5rem;
 }
